@@ -16,6 +16,6 @@ public class EmployeeUtilities {
             Developer developer = (Developer) employee; 
             System.out.println("Programming Language: " + developer.getProgrammingLanguage()); 
         } 
-        System.out.println(); 
+        System.out.println();  
     }
 }
